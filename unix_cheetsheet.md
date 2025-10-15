@@ -20,3 +20,6 @@ Quick guide to choose:
 - Script/automation: touch, >, echo, printf
 - Manual typing: cat
 - Editing files: nano, vi, vim
+
+## move or rename folder (folder contents)
+mv "source folder path" "target folder path"
